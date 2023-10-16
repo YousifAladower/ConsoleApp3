@@ -1,0 +1,7 @@
+E:\programming language\25_09_2023\.NET C#\metigator عصام عبدالني\Data Access & EF-Core\yous\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\programming language\25_09_2023\.NET C#\metigator عصام عبدالني\Data Access & EF-Core\yous\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\programming language\25_09_2023\.NET C#\metigator عصام عبدالني\Data Access & EF-Core\yous\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\programming language\25_09_2023\.NET C#\metigator عصام عبدالني\Data Access & EF-Core\yous\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+E:\programming language\25_09_2023\.NET C#\metigator عصام عبدالني\Data Access & EF-Core\yous\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\programming language\25_09_2023\.NET C#\metigator عصام عبدالني\Data Access & EF-Core\yous\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\programming language\25_09_2023\.NET C#\metigator عصام عبدالني\Data Access & EF-Core\yous\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
