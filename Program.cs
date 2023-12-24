@@ -27,7 +27,6 @@ namespace ConsoleApp3
             List<Emplyee> empList3 = new List<Emplyee>(empArray);
 
            // empList.Insert(1, new Emplyee { id = 1, name = "aaaa ", age = 30 });
-
             var count=empList.Count;
             var capcity = empList.Capacity;
             Console.WriteLine(count);
@@ -41,16 +40,11 @@ namespace ConsoleApp3
             // empList3.RemoveAll(x=>x.name.EndsWith("us"));
             empList3.RemoveAll(x => x.name.StartsWith("you"));
 
-
-
             Console.WriteLine("==========================");
             foreach (Emplyee emplyee in empList3)
             {
                 Console.WriteLine(emplyee.name);
             }
-
-
-
             Console.ReadKey(); 
 
         }
